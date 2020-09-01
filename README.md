@@ -12,8 +12,7 @@
 
 Hi, I'm Ashok Jammu,i'm a Passionate aspiring Full Stack Developer skilled in MERN stack,molded and shaped by Masai school's intensive and immensive learning. Look forward to join a company where i shall be able to contribute towards individual and company growth.
 
-- 🔭 I’m currently working on my project [Booking.com](https://www.booking.com/)
-- 🌱 I’m currently learning MongoDB
+- 🌱 I’m currently learning MongoDB and Python
   
 **Languages and Tools:**  
 
